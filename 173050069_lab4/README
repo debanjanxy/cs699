@@ -1,0 +1,28 @@
+Location of the page: Moodle home page ==> 699 course page ==> News Forum
+Link: http://moodle.iitb.ac.in/mod/forum/view.php?id=41349
+
+Pattern : +1 followed by a newline i.e, "+1\n"
+
+Input: solution.py 699 your_username your_password
+
+Output:
+
+CS 699-2017-1 Software Lab.
+News forum link:  http://moodle.iitb.ac.in/mod/forum/view.php?id=41349
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=62698
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=62097
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=61403
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=61794
+4  +1's are present in link:  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=63294
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=63063
+3  +1's are present in link:  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=63150
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=62458
+1  +1's are present in link:  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=61140
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=62988
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=62797
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=62103
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=63084
+20  +1's are present in link:  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=62595
+Pattern not found in  http://moodle.iitb.ac.in/mod/forum/discuss.php?d=63408
+
+

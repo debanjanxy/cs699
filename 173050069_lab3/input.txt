@@ -1,0 +1,15 @@
+I am giving a list of test contacts of some persons:
+Person 1: Mob: 9038424147 EmailID: abcd@gmail.com
+person2: mob: +91-9038424147 email-id: dasdebanjan624@gmail.com
+person3: mob: +91-7234556666 email-id: xyasdsa@abcd.nhj
+My DOB: 20.03.1995
+12.03.4567 is a date.
+23:56:12 is in time format.
+DOB1: 02.11.1994
+time: 20:13:59
+My roll no. : 173050069 time: 12:34:43
+173050068 is a roll number.
+873050069 is not a roll number.
+False Time: 24:07:12
+In-valid date: 32.11.1234
+abcd@hh.kk
